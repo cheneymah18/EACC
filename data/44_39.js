@@ -1,0 +1,20 @@
+var json_44_39 = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Allied Building Products Corp", "COUNTRY": "Ireland", "WEBSITE": "www.alliedbuilding.com", "EACCMember": "no", "NACISCode": null, "Address": "1735 River" }, "geometry": { "type": "Point", "coordinates": [ -84.48224, 39.118 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Allied Building Products Corp", "COUNTRY": "Ireland", "WEBSITE": "www.alliedbuilding.com", "EACCMember": "no", "NACISCode": null, "Address": "4782b Muhl" }, "geometry": { "type": "Point", "coordinates": [ -84.46536, 39.31888 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Arrow Truck Sales Inc", "COUNTRY": "Sweden", "WEBSITE": "http:\/\/www.arrowtruck.com\/Docs\/index.aspx", "EACCMember": "no", "NACISCode": null, "Address": "11430 Gond" }, "geometry": { "type": "Point", "coordinates": [ -84.43995, 39.28134 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Kay Jewelers \n(Sterling Jewelers Inc.)", "COUNTRY": "United Kingdom", "WEBSITE": "www.kay.com", "EACCMember": "no", "NACISCode": "448310", "Address": "7875 Montg" }, "geometry": { "type": "Point", "coordinates": [ -84.37702, 39.2025 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Kay Jewelers \n(Sterling Jewelers Inc.)", "COUNTRY": "United Kingdom", "WEBSITE": "www.kay.com", "EACCMember": "no", "NACISCode": "448310", "Address": "9565-b Col" }, "geometry": { "type": "Point", "coordinates": [ -84.5954, 39.24471 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Kay Jewelers \n(Sterling Jewelers Inc.)", "COUNTRY": "United Kingdom", "WEBSITE": "www.kay.com", "EACCMember": "no", "NACISCode": "448310", "Address": "4601 Eastg" }, "geometry": { "type": "Point", "coordinates": [ -84.27172, 39.10316 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Kay Jewelers \n(Sterling Jewelers Inc.)", "COUNTRY": "United Kingdom", "WEBSITE": "www.kay.com", "EACCMember": "no", "NACISCode": "448310", "Address": "11700 Prin" }, "geometry": { "type": "Point", "coordinates": [ -84.46348, 39.289 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Kay Jewelers \n(Sterling Jewelers Inc.)", "COUNTRY": "United Kingdom", "WEBSITE": "www.kay.com", "EACCMember": "no", "NACISCode": "448310", "Address": "2158 Flore" }, "geometry": { "type": "Point", "coordinates": [ -84.65064, 38.99651 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Kay Jewelers \n(Sterling Jewelers Inc.)", "COUNTRY": "United Kingdom", "WEBSITE": "www.kay.com", "EACCMember": "no", "NACISCode": "448310", "Address": "2893 Town " }, "geometry": { "type": "Point", "coordinates": [ -84.57657, 39.0249 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "KE-Burgmann USA \n(Burgmann Industries)", "COUNTRY": "Germany", "WEBSITE": "http:\/\/www.eagleburgmann-ej.com\/", "EACCMember": "no", "NACISCode": "444130", "Address": "2100 Conne" }, "geometry": { "type": "Point", "coordinates": [ -84.70157, 39.05804 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Luxottica", "COUNTRY": "Italy", "WEBSITE": "http:\/\/www.luxottica.com\/en", "EACCMember": "no", "NACISCode": "446130", "Address": "4000 Luxot" }, "geometry": { "type": "Point", "coordinates": [ -84.2961, 39.33889 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Nergeco USA Inc.", "COUNTRY": "France", "WEBSITE": "https:\/\/www.nergeco.com\/us\/nergeco-high-performance-doors-1.html", "EACCMember": "yes", "NACISCode": "444190", "Address": "6186 Centr" }, "geometry": { "type": "Point", "coordinates": [ -84.4209, 39.30442 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": null, "COUNTRY": null, "WEBSITE": null, "EACCMember": null, "NACISCode": null, "Address": "\n,  " }, "geometry": { "type": "Point", "coordinates": [ -84.4209, 39.30442 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": null, "COUNTRY": null, "WEBSITE": null, "EACCMember": null, "NACISCode": "496622.5924", "Address": "\n,  " }, "geometry": { "type": "Point", "coordinates": [ -84.4209, 39.30442 ] } }
+]
+}

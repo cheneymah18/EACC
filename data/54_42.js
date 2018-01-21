@@ -1,0 +1,21 @@
+var json_54_42 = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Accenture", "COUNTRY": "Ireland", "WEBSITE": "https:\/\/www.accenture.com\/us-en\/", "EACCMember": "no", "NACISCode": null, "Address": "201 East F" }, "geometry": { "type": "Point", "coordinates": [ -84.5089, 39.10035 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Arcadis US Inc", "COUNTRY": "Netherlands", "WEBSITE": "www.arcadis-us.com", "EACCMember": "no", "NACISCode": null, "Address": "4665 Corne" }, "geometry": { "type": "Point", "coordinates": [ -84.37711, 39.26953 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Atos IT Solutions and Services Inc", "COUNTRY": "France", "WEBSITE": "http:\/\/na.atos.net\/en-us\/home.html", "EACCMember": "no", "NACISCode": null, "Address": "8230 Montg" }, "geometry": { "type": "Point", "coordinates": [ -84.36521, 39.20547 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Atos IT Solutions and Services Inc", "COUNTRY": "France", "WEBSITE": "http:\/\/na.atos.net\/en-us\/home.html", "EACCMember": "no", "NACISCode": null, "Address": "4705 Duke " }, "geometry": { "type": "Point", "coordinates": [ -84.30833, 39.30038 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Ipsos Interactive Services", "COUNTRY": "France", "WEBSITE": "http:\/\/www.ipsos-na.com\/", "EACCMember": "yes", "NACISCode": null, "Address": "3505 Colum" }, "geometry": { "type": "Point", "coordinates": [ -84.30833, 39.30038 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Ipsos Understanding", "COUNTRY": "France", "WEBSITE": "http:\/\/www.ipsos-na.com\/", "EACCMember": "yes", "NACISCode": "541910", "Address": "3505 Colum" }, "geometry": { "type": "Point", "coordinates": [ -84.43905, 39.11679 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "itelligence", "COUNTRY": "Germany", "WEBSITE": "http:\/\/itelligencegroup.com\/us\/", "EACCMember": "no", "NACISCode": "541511", "Address": "10856 Reed" }, "geometry": { "type": "Point", "coordinates": [ -84.37924, 39.26219 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Landor Associates", "COUNTRY": "United Kingdom", "WEBSITE": "http:\/\/landor.com\/#!\/locations\/cincinnati", "EACCMember": "no", "NACISCode": "541810", "Address": "110 Shilli" }, "geometry": { "type": "Point", "coordinates": [ -84.5153, 39.10267 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Mabtech", "COUNTRY": "Sweden", "WEBSITE": "https:\/\/www.mabtech.com\/", "EACCMember": "no", "NACISCode": "541512", "Address": "3814 West " }, "geometry": { "type": "Point", "coordinates": [ -84.3767, 39.14612 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Nielsen BASES", "COUNTRY": "Luxembourg", "WEBSITE": "http:\/\/www.nielsen.com\/us\/en.html", "EACCMember": "no", "NACISCode": "541910", "Address": "250 E 5th " }, "geometry": { "type": "Point", "coordinates": [ -84.5087, 39.10218 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "OPTIS, LLC", "COUNTRY": "United Kingdom", "WEBSITE": "www.optis-solutions.com", "EACCMember": "yes", "NACISCode": "523930", "Address": "6705 Stege" }, "geometry": { "type": "Point", "coordinates": [ -84.4721, 39.18558 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": null, "COUNTRY": null, "WEBSITE": null, "EACCMember": null, "NACISCode": null, "Address": "\n,  " }, "geometry": { "type": "Point", "coordinates": [ -84.4721, 39.18558 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": null, "COUNTRY": null, "WEBSITE": null, "EACCMember": null, "NACISCode": "541911", "Address": "\n,  " }, "geometry": { "type": "Point", "coordinates": [ -84.4721, 39.18558 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": null, "COUNTRY": null, "WEBSITE": null, "EACCMember": null, "NACISCode": null, "Address": "\n,  " }, "geometry": { "type": "Point", "coordinates": [ -84.4721, 39.18558 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": null, "COUNTRY": null, "WEBSITE": null, "EACCMember": null, "NACISCode": "541912", "Address": "\n,  " }, "geometry": { "type": "Point", "coordinates": [ -84.4721, 39.18558 ] } }
+]
+}

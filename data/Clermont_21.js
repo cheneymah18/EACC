@@ -1,0 +1,18 @@
+var json_Clermont_21 = {
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LOCALCOMPA": "ABM Drives Inc. \n(ABM Greiffenberger Antriebstechnik)", "COUNTRY": "Germany", "WEBSITE": "http:\/\/www.abm-antriebe.de\/45_home.html", "EACCMember": "yes", "NACISCode": null, "Address": "2000 Ford " }, "geometry": { "type": "Point", "coordinates": [ -84.25209, 39.15625 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Aggreko LLC", "COUNTRY": "United Kingdom", "WEBSITE": "http:\/\/us.aggreko.com\/", "EACCMember": "no", "NACISCode": null, "Address": "1533 Cinci" }, "geometry": { "type": "Point", "coordinates": [ -84.21352, 39.0849 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "American Modern Insurance Group \n(Muenchner Rueck)", "COUNTRY": "Germany", "WEBSITE": "www.midlandcompany.com", "EACCMember": "no", "NACISCode": null, "Address": "7000 Midla" }, "geometry": { "type": "Point", "coordinates": [ -84.24003, 39.05866 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "DRS Mobile Environmental Systems Co.", "COUNTRY": "Italy", "WEBSITE": "http:\/\/www.drs-mes.com\/", "EACCMember": "no", "NACISCode": null, "Address": "1032 Seabr" }, "geometry": { "type": "Point", "coordinates": [ -84.2598, 39.06843 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "DRS Mobile Environmental Systems Co.", "COUNTRY": "Italy", "WEBSITE": "http:\/\/www.drs-mes.com\/", "EACCMember": "no", "NACISCode": null, "Address": "4043 Mcman" }, "geometry": { "type": "Point", "coordinates": [ -84.25728, 39.06771 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "ECOROLL Corp. Tool Technology", "COUNTRY": "Germany", "WEBSITE": "http:\/\/www.ecoroll.com", "EACCMember": "no", "NACISCode": null, "Address": "502 Techne" }, "geometry": { "type": "Point", "coordinates": [ -84.24761, 39.1548 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Elof Hansson, Inc", "COUNTRY": "Sweden", "WEBSITE": "http:\/\/www.elofhansson.com\/", "EACCMember": "no", "NACISCode": null, "Address": "400 Techne" }, "geometry": { "type": "Point", "coordinates": [ -84.25059, 39.15339 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Fluid Conservation Systems Inc. \n(FMS)", "COUNTRY": "United Kingdom", "WEBSITE": "http:\/\/www.fluidconservation.com\/", "EACCMember": "no", "NACISCode": null, "Address": "502 Techne" }, "geometry": { "type": "Point", "coordinates": [ -84.24761, 39.1548 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Huhtamaki Inc", "COUNTRY": "Finland", "WEBSITE": "http:\/\/www2.us.huhtamaki.com\/", "EACCMember": "no", "NACISCode": null, "Address": "1985 James" }, "geometry": { "type": "Point", "coordinates": [ -84.11503, 39.07124 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Mane Inc.", "COUNTRY": "France", "WEBSITE": "http:\/\/www.mane.com", "EACCMember": "yes", "NACISCode": "311942", "Address": "999 Tech D" }, "geometry": { "type": "Point", "coordinates": [ -84.25688, 39.15033 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Murrplastik Systems Inc", "COUNTRY": "Germany", "WEBSITE": "http:\/\/murrplastik.com\/", "EACCMember": "yes", "NACISCode": "326199", "Address": "1175 Us-50" }, "geometry": { "type": "Point", "coordinates": [ -84.2439, 39.14428 ] } },
+{ "type": "Feature", "properties": { "LOCALCOMPA": "Siemens Corporation", "COUNTRY": "Germany", "WEBSITE": "https:\/\/www.siemens.com\/us\/en\/home.html", "EACCMember": "no", "NACISCode": "811219", "Address": "2000 Eastm" }, "geometry": { "type": "Point", "coordinates": [ -84.24586, 39.15885 ] } }
+]
+}
